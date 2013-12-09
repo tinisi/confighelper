@@ -1,0 +1,13 @@
+{
+	"shared_conf": {
+		"test": true
+	},
+	"host_conf": {
+		"test.tinisi.local": {
+			"number": 3,
+			"string": "test",
+			"list": [ 1, 2, 3 ],
+			"dict": { "name_one": "value_one"}
+		}
+	}
+}

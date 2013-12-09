@@ -2,3 +2,8 @@
 README.md
 setup.py
 confighelper/__init__.py
+confighelper/tests/__init__.py
+confighelper/tests/test_confighelper.json
+confighelper/tests/test_file.txt
+confighelper/tests/test_json.json
+scripts/test_confighelper.py
